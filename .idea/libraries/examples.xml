@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/mxgraph-master/java/examples" />
+      <root url="file://$USER_HOME$/Desktop/mxgraph-master/java/src" />
+      <root url="file://$USER_HOME$/Desktop/mxgraph-master/java/test" />
+      <root url="file://$USER_HOME$/Desktop/mxgraph-master/javascript/examples/grapheditor/java/src" />
+    </SOURCES>
+  </library>
+</component>
